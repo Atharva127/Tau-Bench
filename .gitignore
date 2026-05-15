@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+.env/
+
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# Cache
+.cache/
+
+# Large data/models
+data/
+datasets/
+models/
+checkpoints/
+
+# OS
+Thumbs.db
